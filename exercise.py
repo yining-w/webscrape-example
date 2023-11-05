@@ -5,7 +5,6 @@ import os
 #import pdfplumber
 import fitz  # PyMuPDF
 
-os.chdir("C:/Users/yinin/Desktop/fadzil")  
 # main pdf download link
 path = os.getcwd()
 
